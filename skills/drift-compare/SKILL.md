@@ -2,7 +2,7 @@
 name: drift-compare
 description: "Compare two dataset versions feature-by-feature with statistical tests, distribution overlays, and schema diff. Useful for training batch comparison or A/B population analysis."
 aliases: [compare datasets, dataset comparison, feature comparison, batch comparison, distribution comparison]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

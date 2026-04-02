@@ -1,4 +1,4 @@
-# ml-automation-drift
+# spark-drift
 
 Production monitoring extension for [ml-automation](https://github.com/Maxilylm/ml-automation-core).
 
@@ -11,7 +11,7 @@ Production monitoring extension for [ml-automation](https://github.com/Maxilylm/
 ## Installation
 
 ```bash
-claude plugin add /path/to/ml-automation-drift
+claude plugin add /path/to/spark-drift
 ```
 
 ## What's Included

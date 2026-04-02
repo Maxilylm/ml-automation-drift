@@ -4,7 +4,7 @@ description: "Build alerting pipelines for drift and performance thresholds. Con
 model: sonnet
 color: "#B91C1C"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [drift alert, monitoring alert, threshold alert, slack alert, email alert, drift notification, monitoring pipeline]
 ---
 

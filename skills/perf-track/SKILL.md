@@ -2,7 +2,7 @@
 name: perf-track
 description: "Track model performance metrics over time. Detect degradation trends, change points, concept drift, and evaluate retraining triggers."
 aliases: [track performance, model monitoring, metric decay, performance degradation, retraining trigger]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

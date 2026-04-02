@@ -2,7 +2,7 @@
 name: drift-monitor
 description: "Set up continuous drift monitoring pipeline with scheduled checks, reference snapshots, and automated drift detection scripts."
 aliases: [monitor drift, continuous monitoring, drift pipeline, production monitoring]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

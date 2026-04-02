@@ -2,7 +2,7 @@
 name: drift-detect
 description: "Detect data drift between reference and production datasets using PSI, CSI, KS test, and Jensen-Shannon divergence. Flags features with significant distributional shift."
 aliases: [detect drift, data drift, psi check, distribution shift, feature drift]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

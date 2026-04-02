@@ -2,7 +2,7 @@
 name: drift-alert
 description: "Configure alerting thresholds and notification channels (Slack, email, webhook, PagerDuty) for drift monitoring pipelines."
 aliases: [drift alert, monitoring alert, alert threshold, drift notification, alert pipeline]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

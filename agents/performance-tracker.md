@@ -4,7 +4,7 @@ description: "Track model performance degradation over time. Metric decay detect
 model: sonnet
 color: "#DC2626"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [model drift, performance degradation, concept drift, metric decay, retraining trigger, model monitoring, accuracy drift]
 hooks_into:
   - after-deploy

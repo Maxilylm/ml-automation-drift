@@ -2,7 +2,7 @@
 name: drift-report
 description: "Generate comprehensive drift monitoring reports with distribution overlays, drift heatmaps, and executive summaries in HTML, JSON, or Markdown format."
 aliases: [drift report, drift dashboard, drift visualization, monitoring report]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

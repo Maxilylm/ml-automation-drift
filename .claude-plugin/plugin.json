@@ -1,10 +1,10 @@
 {
-  "name": "ml-automation-drift",
+  "name": "spark-drift",
   "version": "0.2.0",
-  "description": "Production monitoring extension for ml-automation. Data drift detection, model drift monitoring, PSI/CSI computation, alerting pipelines, and performance degradation tracking.",
+  "description": "Production monitoring extension for spark. Data drift detection, model drift monitoring, PSI/CSI computation, alerting pipelines, and performance degradation tracking.",
   "author": { "name": "Maximo Lorenzo y Losada" },
   "repository": "https://github.com/Maxilylm/ml-automation-drift",
   "license": "MIT",
-  "keywords": ["drift", "monitoring", "psi", "csi", "data-drift", "model-drift", "production-monitoring", "ml-automation-extension"],
-  "dependencies": ["ml-automation-core"]
+  "keywords": ["drift", "monitoring", "psi", "csi", "data-drift", "model-drift", "production-monitoring", "spark-extension"],
+  "dependencies": ["spark-core"]
 }

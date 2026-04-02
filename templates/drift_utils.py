@@ -1,7 +1,7 @@
 """
-Drift detection utilities for the ml-automation-drift extension plugin.
+Drift detection utilities for the spark-drift extension plugin.
 
-Requires ml_utils.py from the ml-automation core plugin to be present
+Requires ml_utils.py from the spark core plugin to be present
 in the same directory (copied via Stage 0 of drift commands).
 """
 
