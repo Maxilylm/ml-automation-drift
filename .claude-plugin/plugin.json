@@ -1,6 +1,6 @@
 {
   "name": "ml-automation-drift",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Production monitoring extension for ml-automation. Data drift detection, model drift monitoring, PSI/CSI computation, alerting pipelines, and performance degradation tracking.",
   "author": { "name": "Maximo Lorenzo y Losada" },
   "repository": "https://github.com/Maxilylm/ml-automation-drift",
