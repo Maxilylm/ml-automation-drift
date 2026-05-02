@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Production monitoring extension for spark. Data drift detection, model drift monitoring, PSI/CSI computation, alerting pipelines, and performance degradation tracking.",
   "author": { "name": "Maximo Lorenzo y Losada" },
-  "repository": "https://github.com/Maxilylm/ml-automation-drift",
+  "repository": "https://github.com/BLEND360/ml-automation-drift",
   "license": "MIT",
   "keywords": ["drift", "monitoring", "psi", "csi", "data-drift", "model-drift", "production-monitoring", "spark-extension"],
   "dependencies": ["spark-core"]
