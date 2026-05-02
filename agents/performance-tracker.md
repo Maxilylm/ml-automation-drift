@@ -6,8 +6,6 @@ color: "#DC2626"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [model drift, performance degradation, concept drift, metric decay, retraining trigger, model monitoring, accuracy drift]
-hooks_into:
-  - after-deploy
 ---
 
 # Performance Tracker
