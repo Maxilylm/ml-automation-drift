@@ -6,8 +6,6 @@ color: "#EF4444"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [data drift, feature drift, psi, csi, ks test, distribution shift, population stability, covariate shift]
-hooks_into:
-  - after-evaluation
 ---
 
 # Drift Monitor

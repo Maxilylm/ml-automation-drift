@@ -18,11 +18,11 @@ claude plugin add /path/to/spark-drift
 
 ### Agents
 
-| Agent | Purpose | Hooks Into |
-|---|---|---|
-| `drift-monitor` | Data drift detection -- PSI, CSI, KS test, feature distributions | `after-evaluation` |
-| `performance-tracker` | Model performance degradation, concept drift, retraining triggers | `after-deploy` |
-| `alert-builder` | Alerting pipelines for drift and performance thresholds | *(direct invocation)* |
+| Agent | Purpose |
+|---|---|
+| `drift-monitor` | Data drift detection -- PSI, CSI, KS test, feature distributions |
+| `performance-tracker` | Model performance degradation, concept drift, retraining triggers |
+| `alert-builder` | Alerting pipelines for drift and performance thresholds |
 
 ### Commands
 
