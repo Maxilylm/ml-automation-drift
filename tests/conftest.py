@@ -8,7 +8,7 @@ def mock_llm_response():
     """LLM-response dict fixture."""
     return {
         "content": "Test response",
-        "model": "claude-3-haiku",
+        "model": "claude-opus-4-7",
         "stop_reason": "end_turn",
         "usage": {"input_tokens": 10, "output_tokens": 20},
     }
